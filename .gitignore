@@ -1,0 +1,52 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Android/iOS/Windows/macOS/Linux generated or local files
+android/local.properties
+android/**/local.properties
+android/.gradle/
+android/build/
+android/**/build/
+android/**/GeneratedPluginRegistrant.java
+android/**/GeneratedPluginRegistrant.kt
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+macos/Flutter/Generated.xcconfig
+macos/Flutter/Flutter.podspec
+macos/Pods/
+windows/flutter/generated_plugin_registrant.*
+linux/flutter/generated_plugin_registrant.*
+
+# VS Code and JetBrains IDE files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# Environment files
+.env
+.env.*
