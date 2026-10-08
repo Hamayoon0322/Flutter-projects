@@ -1,0 +1,10 @@
+Lecture 6 - Common Widgets II
+
+Course: Advanced Mobile Programming
+Department: Computer Science
+
+Practical labs:
+1. Buttons and callbacks
+2. Images and icons
+3. Loading text with AssetBundle
+4. Validating and resetting a form
